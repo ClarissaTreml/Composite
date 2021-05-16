@@ -1,0 +1,10 @@
+at/ac/fhcampuswien/Employee.java
+ at.ac.fhcampuswien.Employee
+at/ac/fhcampuswien/Cashier.java
+ at.ac.fhcampuswien.Cashier
+at/ac/fhcampuswien/BankManager.java
+ at.ac.fhcampuswien.BankManager
+at/ac/fhcampuswien/Accountant.java
+ at.ac.fhcampuswien.Accountant
+at/ac/fhcampuswien/CompositePatternDemo.java
+ at.ac.fhcampuswien.CompositePatternDemo
